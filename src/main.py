@@ -22,6 +22,6 @@ print(hacker_news[0])
 
     
 # ClickHouse 接続テスト
-ch_client = get_client(host='clickhouse', username='pyuser', password='password')
+ch_client = get_client(host='clickhouse', username='python', password='password')
 
 print("ClickHouse connected:", ch_client.query('SELECT version()'))
