@@ -1,0 +1,4 @@
+﻿Call notes,Call direction,Call status,Call title,Activity date,Activity assigned to,Call duration,Call outcome,Call source,From number,To number,Recording URL,Transcript available,Call and meeting type
+Called about the contract I sent.,Outbound,Completed,Contract follow up call,28/10/2020 14:30,User name/email,300000,Connected,VoIP,5555555555,987654321,URL,TRUE,Call type 1
+Called into our support line for help.,Inbound,Completed,Support call,29/12/2022 11:30,User name/email,0,Busy,Zoom,1234567890,3453453455,URL,FALSE,Call type 1
+"Didn't answer sales call, will call back later.",Outbound,Busy,Sales call,21/1/2021 12:15,User name/email,150000,Left voicemail,Integrations Platform,5555555555,1231231234,URL,TRUE,Call type 2

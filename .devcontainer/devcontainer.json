@@ -1,0 +1,16 @@
+{
+    "name": "Python + PostgreSQL + ClickHouse",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "dev",
+    "workspaceFolder": "/workspace",
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash",
+      "python.defaultInterpreterPath": "/usr/local/bin/python"
+    },
+    "extensions": [
+      "ms-python.python",
+      "ms-python.vscode-pylance"
+    ],
+    "postCreateCommand": "pip install -r requirements.txt || true"
+  }
+  

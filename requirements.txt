@@ -1,0 +1,5 @@
+psycopg[binary]
+polars[all]
+pydantic
+mypy
+pandas
